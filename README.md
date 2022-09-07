@@ -45,6 +45,7 @@
 
 </td><td valign="top" width="33%">
 
+<img src="https://github.com/Edwardssss/Edwardssss/blob/main/IMG_022.gif" align="left" height="" width="300" />  
 
 
 </td><td valign="top" width="33%">
