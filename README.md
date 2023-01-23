@@ -3,23 +3,21 @@
 </div>
 
 <div align="center">
+    <p>Github Profile访客数量</p>
     <img src=https://profile-counter.glitch.me/Edwardssss/count.svg alt="">
 </div>
 
+![](https://raw.githubusercontent.com/Edwardssss/Edwardssss/main/assets/github-contribution-grid-snake.svg)
 
+电赛嵌入式软件人(指硬件啥也不会):sunglasses::ok_hand: $\rightarrow$ :sob:
 
-<div align="center">
-    <p></p>
-</div>
-
-电赛嵌入式软件人(指硬件啥也不会):sunglasses::ok_hand:$\rightarrow$:sob:
 最近对于DQN和嵌入式Soc比较感兴趣:wink:
+
 目前还是蒟蒻，正在努力填坑:sob:
+
 喜欢玩战地5和听音乐(强推[ヨルシカ](https://music.163.com/#/artist?id=12390232)的歌):smile:
 
 <div align="center">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Edwardssss&theme=tokyonight&show_icons=true" height="200px">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Edwardssss&layout=compact&theme=tokyonight" height="200px">
 <div>
-
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/Edwardssss/Edwardssss/assets/github-contribution-grid-snake.svg" /></div>
