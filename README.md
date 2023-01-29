@@ -14,18 +14,21 @@
 + 最近对于DQN和嵌入式Soc比较感兴趣:wink:
 
 + 目前还是蒟蒻，正在努力填坑:sob:
-    - [ ] 学习DQN
-    - [ ] 学习processing
-    - [ ] 学习Nonebot2，写一个chatGPT的插件，并且部署到VPS上
-    - [ ] 考雅思(:mouse::mouse:我有点想润了捏)
-    - [x] 学习基本的汇编语言
-    - [x] 学习MATLAB
-    - [ ] 学习LaTex排版
-    - [ ] 学习Scrapy爬虫
-    - [ ] 学习绘制GraphPad Prism
 
 + 喜欢玩战地5和听音乐(强推[ヨルシカ](https://music.163.com/#/artist?id=12390232)的歌):smile:
 
+有一个全栈的梦，希望能按照自己兴趣慢慢来做
+与诸君共勉:kissing_heart:
+
+- [ ] 学习DQN
+- [ ] 学习processing
+- [ ] 学习Nonebot2，写一个chatGPT的插件，并且部署到VPS上
+- [ ] 考雅思(:mouse::mouse:我有点想润了捏)
+- [x] 学习基本的汇编语言
+- [x] 学习MATLAB
+- [ ] 学习LaTex排版
+- [ ] 学习Scrapy爬虫
+- [ ] 学习绘制GraphPad Prism
 
 
 <div align="center">
