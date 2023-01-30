@@ -6,7 +6,6 @@
     <p>Github Profile访客数量</p>
     <img src=https://profile-counter.glitch.me/Edwardssss/count.svg alt="">
 </div>
-
 [![Generate Snake](https://github.com/Edwardssss/Edwardssss/actions/workflows/main.yml/badge.svg)](https://github.com/Edwardssss/Edwardssss/actions/workflows/main.yml)
 
 + 电赛嵌入式软件人(指硬件啥也不会):sunglasses::ok_hand: $\rightarrow$ :sob:
