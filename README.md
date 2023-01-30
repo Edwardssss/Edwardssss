@@ -6,7 +6,6 @@
     <p>Github Profile访客数量</p>
     <img src=https://profile-counter.glitch.me/Edwardssss/count.svg alt="">
 </div>
-![Generate Snake](https://raw.githubusercontent.com/Edwardssss/Edwardssss/output/github-contribution-grid-snake.svg)
 
 + 电赛嵌入式软件人(指硬件啥也不会):sunglasses::ok_hand: $\rightarrow$ :sob:
 
@@ -29,6 +28,7 @@
 - [ ] 学习Scrapy爬虫
 - [ ] 学习绘制GraphPad Prism
 
+![](https://raw.githubusercontent.com/Edwardssss/Edwardssss/output/github-contribution-grid-snake.svg)
 
 <div align="center">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Edwardssss&theme=tokyonight&show_icons=true" height="200px">
