@@ -7,7 +7,7 @@
     <img src=https://profile-counter.glitch.me/Edwardssss/count.svg alt="">
 </div>
 
-![](https://raw.githubusercontent.com/Edwardssss/Edwardssss/main/assets/github-contribution-grid-snake.svg)
+[![Generate Snake](https://github.com/Edwardssss/Edwardssss/actions/workflows/main.yml/badge.svg)](https://github.com/Edwardssss/Edwardssss/actions/workflows/main.yml)
 
 + 电赛嵌入式软件人(指硬件啥也不会):sunglasses::ok_hand: $\rightarrow$ :sob:
 
@@ -35,3 +35,4 @@
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Edwardssss&theme=tokyonight&show_icons=true" height="200px">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Edwardssss&layout=compact&theme=tokyonight" height="200px">
 <div>
+
