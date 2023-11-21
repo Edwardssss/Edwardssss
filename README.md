@@ -20,11 +20,10 @@
 
 - [ ] 学习DQN
 - [ ] 学习processing
-- [ ] 学习Nonebot2，写一个chatGPT的插件，并且部署到VPS上
-- [ ] 考雅思(:mouse::mouse:我有点想润了捏)
+- [x] 考雅思(:mouse::mouse:我有点想润了捏)
 - [x] 学习基本的汇编语言
 - [x] 学习MATLAB
-- [ ] 学习LaTex排版
+- [x] 学习LaTex排版
 - [ ] 学习Scrapy爬虫
 - [ ] 学习绘制GraphPad Prism
 
@@ -34,4 +33,3 @@
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Edwardssss&theme=tokyonight&show_icons=true" height="200px">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Edwardssss&layout=compact&theme=tokyonight" height="200px">
 <div>
-
