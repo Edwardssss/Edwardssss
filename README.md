@@ -9,13 +9,9 @@
 
 ## Blog
 
----
-
 *Welcome to [my blog](https://edwardssss.github.io/)*
 
 ## About me
-
----
 
 -   Major in Communicating and Signal Processing
 -   Used to learn Embedded System, Python Crawler, SAR Radar Detection and Digital Image Processing
@@ -26,14 +22,11 @@
 
 ## For Future
 
----
-
 +   Probably do more researches on ISAC-NET and Joint Communication
 +   Try to prove some conclusions with rigorous mathematics
-
-![](https://raw.githubusercontent.com/Edwardssss/Edwardssss/output/github-contribution-grid-snake.svg)
 
 <div align="center">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Edwardssss&theme=tokyonight&show_icons=true" height="200px">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Edwardssss&layout=compact&theme=tokyonight" height="200px">
 <div>
+
