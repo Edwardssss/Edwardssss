@@ -25,8 +25,11 @@
 +   Probably do more researches on ISAC-NET and Joint Communication
 +   Try to prove some conclusions with rigorous mathematics
 
+## Contact
+
+If you want paid assistance from me, please email to ed_129@qq.com. I will reply as soon as possible.
+
 <div align="center">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Edwardssss&theme=tokyonight&show_icons=true" height="200px">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Edwardssss&layout=compact&theme=tokyonight" height="200px">
 <div>
-
