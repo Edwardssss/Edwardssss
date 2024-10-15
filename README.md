@@ -6,7 +6,11 @@
     <p>Github Profile访客数量</p>
     <img src=https://profile-counter.glitch.me/Edwardssss/count.svg alt="">
 </div>
-*Before everything I strongly recommend [my blog](https://edwardssss.github.io/) to you.*
+## Blog
+
+---
+
+https://edwardssss.github.io/
 
 ## About me
 
