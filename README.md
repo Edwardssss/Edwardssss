@@ -6,11 +6,12 @@
     <p>Github Profile访客数量</p>
     <img src=https://profile-counter.glitch.me/Edwardssss/count.svg alt="">
 </div>
+
 ## Blog
 
 ---
 
-https://edwardssss.github.io/
+*Welcome to [my blog](https://edwardssss.github.io/)*
 
 ## About me
 
