@@ -13,23 +13,18 @@
 
 ## About me
 
--   Major in Communicating and Signal Processing
+-   Major in ISAC(Integrated Sensing and Communication)
 -   Used to learn Embedded System, Python Crawler, SAR Radar Detection and Digital Image Processing
--   Familiar with Python / MATLAB / C
--   Can code with Java / Verilog / Assembler (x86/8086)
+-   Familiar with Python / MATLAB / C / Verilog
+-   Can code with Java / Assembler (x86/8086)
 -   Prefer to write with Markdown and LaTex
--   Know the basic functions of Adobe Pr,Lr,Ps,Id,Ai and SolidWorks but sadly lack of creativity and imagination
+-   Know the basic functions of Adobe Pr, Lr, Ps, Id, Ai and SolidWorks but sadly lack of creativity and imagination
 
 ## For Future
 
-+   Probably do more researches on ISAC-NET and Joint Communication
-+   Try to prove some conclusions with rigorous mathematics
++   Probably do more researches on drone-ISAC or satellite-ISAC
 
 ## Contact
 
 If you want paid assistance from me, please email to ed_129@qq.com. I will reply as soon as possible.
 
-<div align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Edwardssss&theme=tokyonight&show_icons=true" height="200px">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Edwardssss&layout=compact&theme=tokyonight" height="200px">
-<div>
