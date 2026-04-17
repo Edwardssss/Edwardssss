@@ -16,9 +16,9 @@
 
 ## For Future
 
-+   Probably do more researches on drone-ISAC or satellite-ISAC
++   Probably do more works on end-to-end deployment.
 
 ## Contact
 
-If you want paid assistance from me, please email to ed_129@qq.com. I will reply as soon as possible.
+If you contact me, please email to ed_129@qq.com. I will reply as soon as possible.
 
